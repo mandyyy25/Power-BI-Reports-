@@ -1,5 +1,6 @@
 # Power-BI-Reports 📊
 #### This is a repository dedicated to support my Power BI Projets.
+#### You can dowload then in the
 ## What you will see
 ### Internet Sales
 #### So I started by making the connections between the tables. Cause in Power BI you need to stablish the right relationship between all the databases, otherwise your views will contain errors. Well, so for this I used the *Star Schema Model* and started by separating the data into 3 tables of Dim and on 1 of Fact. The Dim data contained information from client, product and country. I had to create IDs to each Dim table and send it to the Fact table, it is through this IDs that we connect each table of Dim to the Fact Table. In a one to many relationship.
