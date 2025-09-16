@@ -3,7 +3,7 @@
 #### You can find them above, and download it.
 ## What you will see
 ### Índice Fluviométrico
-#### a BI that I made at my current job to do draft planning:
+#### a BI that I made at my current job for the draft planning:
 https://github.com/user-attachments/assets/8d7fe1dc-f087-43a4-87ad-4523f7cf703d
 ### Operacional Performance:
 ![Image](https://github.com/user-attachments/assets/1a7f86e4-78a9-4dc5-a5a5-56eae7a3428c)
