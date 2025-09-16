@@ -5,6 +5,8 @@
 ### Índice Fluviométrico
 #### a BI that I made at my current job to do draft planning:
 https://github.com/user-attachments/assets/8d7fe1dc-f087-43a4-87ad-4523f7cf703d
+### Operacional Performance:
+
 ### Internet Sales
 #### DATA TRANSFORMATION: I started by making the connections between the Datasets. Cause in Power BI you need to stablish the right relationship between all the databases, otherwise your views will contain errors. Well, so for this I used the *Star Schema Model* and started by separating the data into 3 tables of Dim and on 1 of Fact. The Dim data contained information from client, product and country. I had to create IDs to each Dim table and send it to the Fact table, it is through this IDs that we connect each table of Dim to the Fact Table. In a one to many relationship.
 #### Right after that, I cleaned and moddeled each data table. I started by treating the data. I used Power Querry to add the correct types, delete unessassary columns, delete nulls, to fill missing data and so on.
